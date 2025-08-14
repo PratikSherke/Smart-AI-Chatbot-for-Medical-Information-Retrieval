@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-v0.3.26-green?logo=langchain)](https://langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-v1.46.1-red?logo=streamlit)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 **MediBot** is a Retrieval-Augmented Generation (RAG) chatbot for querying medical PDF documents. Built with LangChain, HuggingFace, FAISS, and Streamlit, it delivers accurate, context-aware answers, minimizing hallucinations. Ideal for healthcare professionals, researchers, and students.
 
@@ -99,11 +99,7 @@ Access at `http://localhost:8501`.
 - **Accuracy**: RAG ensures context-aware answers.
 - **Next Steps**: Add authentication, document upload, multi-PDF support, unit tests.
 
-## 🤝 Contributing
-Fork, branch, commit, and submit a PR. Feedback welcome!
 
-## 📝 License
-MIT License - see [LICENSE](LICENSE).
 
 ## 🙏 Acknowledgments
 - LangChain, HuggingFace, Groq, FAISS, Streamlit.
