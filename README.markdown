@@ -104,7 +104,3 @@ Access at `http://localhost:8501`.
 ## 🙏 Acknowledgments
 - LangChain, HuggingFace, Groq, FAISS, Streamlit.
 
-Built by [Your Name] | August 2025
-
---- 
-For questions, open an issue or contact via [X](https://x.com/yourhandle). Star the repo! ⭐
